@@ -18,7 +18,7 @@ keywords:
   - metrics
   - logs
 maintainers:
-  - email: containers@bitnami.com
+  - email: mailprath9@gmail.com
     name: Bitnami
 name: grafana
 sources:
